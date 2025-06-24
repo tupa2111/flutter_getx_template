@@ -1,5 +1,3 @@
-
-
 # Flutter GetX Template
 
 Flutter Getx template: Starting up new project with all needed configuration has never been easier.
@@ -10,6 +8,7 @@ Flutter Getx template: Starting up new project with all needed configuration has
 - [Accessline Company](https://accessline.ps/)
 - [Smart Angle Group](https://www.smartanglegroup.com)
 - [Squarement](https://www.squarement.sa/)
+- [Fullscreen](https://www.fullscreen.com.sa/index.php/en/)
 - GACA (+10k) ( [Google Play](https://play.google.com/store/apps/details?id=com.talapps.hrApp&hl=en) - [Apple Store](https://apps.apple.com/il/app/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81/id1616229306) )
 - Hr App ( [Google Play](https://play.google.com/store/apps/details?id=com.talapps.hrApp) - [Apple Store]() )
 - Jumpers ( [Google Play](https://play.google.com/store/apps/details?id=com.jumpers.ksa) - [Apple Store](https://apps.apple.com/us/app/jumpers-app/id1662183546) )
@@ -34,9 +33,8 @@ This project will take care of all this repeatable things so you can start your 
 
 ## Latest Updates ([Updated Branch](https://github.com/EmadBeltaje/flutter_getx_template/tree/upgrade_to_latest_flutter_and_getx_version)) 🚀
 - [x] **Upgraded** project to work with the **latest Flutter versions** 🔥
-- [x] **Updated** to **GetX 5** 🚀
-- [x] **Fixed** deprecated code and ensured compatibility 🛠️
-- [x] **Refactored** code and resolved all Dart lints 🛠️
+- [x] **Upgraded** packages versions 📦
+- [x] **Updated** IOS configurations 🍎
 
 
 ## What is new 🌟
